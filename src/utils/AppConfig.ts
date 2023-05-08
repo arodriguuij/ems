@@ -1,8 +1,8 @@
 // FIXME: Update this configuration file based on your project information
 
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'EMS',
+  title: 'Dra Elvira Morgado Sánchez',
+  description: 'Clinínica Estética Elvira Morgado Sánchez',
   locale: 'en',
 };
